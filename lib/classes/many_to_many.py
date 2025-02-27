@@ -13,6 +13,7 @@ class Author:
 
     def magazines(self):
         pass
+        pass
 
     def add_article(self, magazine, title):
         pass
